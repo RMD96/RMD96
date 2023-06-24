@@ -1,5 +1,5 @@
 <div align="center">
-  <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/P5pGzVcp/Black-Marble-Elegant-Professional-Linked-In-Banner.png' border='0' alt='Black-Marble-Elegant-Professional-Linked-In-Banner'/></a>
+<a href=‘https://postimages.org/’ target=‘_blank’><img src=‘https://i.postimg.cc/P5pGzVcp/Black-Marble-Elegant-Professional-Linked-In-Banner.png’ border=‘0’ alt=‘Black-Marble-Elegant-Professional-Linked-In-Banner’ style=‘border-radius: 15px; box-shadow: 5px 5px 10px gray;’/></a>
 </div>  
 
 ### <div align="center">I'm Damian Reyes, a full-time full-stack developer 💻 and digital artist 🎨</div>  
