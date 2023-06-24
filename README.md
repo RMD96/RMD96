@@ -1,5 +1,5 @@
 <div align="center">
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/tJTXFJDj/Black-Marble-Elegant-Professional-Linked-In-Banner.png' border='0' alt='Black-Marble-Elegant-Professional-Linked-In-Banner'/></a>
+<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/tJTXFJDj/Black-Marble-Elegant-Professional-Linked-In-Banner.png' border='15' alt='Black-Marble-Elegant-Professional-Linked-In-Banner'/></a>
 </div>  
   
 
