@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://postimg.cc/XZ1TTqSf" align="center" style="width: 100%" />
+<a href='https://postimg.cc/XZ1TTqSf' target='_blank'><img src='https://i.postimg.cc/RFv4JJgD/PROD-FBL-PNG.png' border='0' alt='PROD-FBL-PNG'/></a>
 </div>  
   
 
