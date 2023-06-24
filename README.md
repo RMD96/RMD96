@@ -1,8 +1,7 @@
 <div align="center">
-
+  <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/P5pGzVcp/Black-Marble-Elegant-Professional-Linked-In-Banner.png' border='0' alt='Black-Marble-Elegant-Professional-Linked-In-Banner'/></a>
 </div>  
-  
-[![Black-Marble-Elegant-Professional-Linked-In-Banner.png](https://i.postimg.cc/tJTXFJDj/Black-Marble-Elegant-Professional-Linked-In-Banner.png)](https://postimg.cc/phwbH2gG)
+
 ### <div align="center">I'm Damian Reyes, a full-time full-stack developer 💻 and digital artist 🎨</div>  
   
 
