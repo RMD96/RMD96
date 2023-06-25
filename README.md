@@ -5,7 +5,7 @@
 ### <div align="center">I'm Damian Reyes, a full-time full-stack developer 💻 and digital artist 🎨</div>  
   
 
-- 🔭 I’m currently working on [MellowD](https://github.com/juvenft/mellowd)  
+- 💻 I’m currently working on [MellowD](https://github.com/juvenft/mellowd)  
   
 
 - 🌱 I’m currently learning React  
@@ -14,7 +14,7 @@
 - ❓ Ask me about digital arts and how to put it in code  
   
 
-- ⚡ Fun fact: I am a musician  
+- 🎸 Fun fact: I am a musician  
   
 
 I became a full-stack developer and a digital artist out of curiosity and passion. I was fascinated by the world of computers and arts since I was 15 years old, and I taught myself how to code and use various software tools. When the pandemic hit in 2020, I saw it as an opportunity to improve my skills and pursue my dreams. I love creating apps and websites that are not only visually appealing but also have robust backend support. I enjoy designing systems that are efficient, secure and scalable. I also like to share my knowledge and insights through blogging about system designs, databases, security, servers and optimization.  
