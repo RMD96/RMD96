@@ -5,7 +5,7 @@
 ### <div align="center">I'm Damian Reyes, a full-time full-stack developer 💻 and digital artist 🎨</div>  
   
 
-- 💻 I’m currently working on [MellowD](https://github.com/juvenft/mellowd)  [App Radios](https://github.com/RMD96/app_rfbl) and [Web Page Radios](https://github.com/RMD96/RFBL).
+- 💻 I’m currently working on [App Radios](https://github.com/RMD96/app_rfbl) and [Web Page Radios](https://github.com/RMD96/RFBL).
   
 
 - 🌱 I’m currently learning React  
