@@ -1,7 +1,3 @@
-<div align="center">
-<img src='https://i.postimg.cc/P5pGzVcp/Black-Marble-Elegant-Professional-Linked-In-Banner.png' border='0' alt='Black-Marble-Elegant-Professional-Linked-In-Banner'/>
-</div>  
-
 ### <div align="center">I'm Damian Reyes, a full-time full-stack developer 💻 and digital artist 🎨</div>  
   
 
